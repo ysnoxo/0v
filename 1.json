@@ -15,7 +15,7 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(VancedFlix) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 30.30.9</br>
+<br>- Version: 3.30.9</br>
 <br>- Size: 19.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
@@ -53,7 +53,7 @@
 "enable_cms":"0",
 "show_ads":"1",
 "downloader_package_name":"com.one.downloader",
-"downloader_name":"VLOader",
+"downloader_name":"VLoader",
 "enable_install_player":true,
 "enable_download_adm":false,
 "title_player":"VIPLayer Video Player",

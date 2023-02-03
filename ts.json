@@ -27,7 +27,7 @@
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "link_downloader":"https://github.com/ysnlek/st/raw/main/1Vloader.apk",
-"force_playernew_directlink":"1",
+"force_playernew_directlink":"true",
 "pkg_uninstall_247":"com.ViPlayer.VancedFlix",
 "pkg_uninstall_257":"com.ViPlayer.VancedFlix",
 "pkg_uninstall_261":"com.sunset.collage",  

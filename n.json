@@ -30,7 +30,7 @@
 "pkg_uninstall_134":"com.tele.novamedia",
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
-"enable_cms":"0",  
+"enable_cms":"1",  
 "downloader_link":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "zma_key":"9f3c29fbf5bd463195dc7bba84c04737",
 "zma_key_134":"bff8021413c64d1eb9f3f9ef6743ecf2",

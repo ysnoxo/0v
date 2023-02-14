@@ -15,14 +15,14 @@
 "update_content":"You cant update if you are using modded version.  Please use official version on our homepage (VancedFlix) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 8.0.3</br>
+<br>- Version: 9.0.3</br>
 <br>- Size: 13.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"64405",  
-"update_version":"8.0.2",  
+"update_build":"9999999",  
+"update_version":"8.0.3",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"com.busydev.audiocutter",  

@@ -15,16 +15,16 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 90.5.0</br>
+<br>- Version: 90.5.1</br>
 <br>- Size: 11.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"180",  
+"update_build":"186",  
 "update_version":"90.5.0",  
-"update_link":"https://github.com/ysnlek/st/raw/main/FV_9050.apk",  
-"update_link_android4":"https://github.com/ysnlek/st/raw/main/FV_9050.apk",
+"update_link":"https://github.com/ysnlek/st/raw/main/9051.apk",  
+"update_link_android4":"https://github.com/ysnlek/st/raw/main/9051.apk",
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall":"vancedflix.apps.vd",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
